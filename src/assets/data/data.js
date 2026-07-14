@@ -33,9 +33,9 @@ export const data = {
         },
         reception: {
             year: '2026',
-            month: 'Ogos',
-            date: '29',
-            day: 'Sabtu',
+            month: 'July',
+            date: '15',
+            day: 'rabu',
             hours: {
                 start: '12:00 Tengah Hari - 5:00 Petang',
                 finish: 'Selesai'
