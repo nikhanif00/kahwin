@@ -2,46 +2,46 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Nik Mohamad Hanif Fakhruddin Bin Mohamed Ghazali',
+            child: 'Anak Kesebelas',
+            father: 'Mohamed Ghazali Bin Othman',
+            mother: 'Tuan Bidah Binti Tuan Kechik',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Nur Atikah Binti Hasbullah',
+            child: 'Anak pertama',
+            father: 'Hasbullah bin Abrahman',
+            mother: 'ROSUEMAH DUERAMAE',
             image: './src/assets/images/cewe.png'
         },
 
-        couple: './src/assets/images/couple.png'
+        couple: './src/assets/images/8363634.jpg'
     },
 
     time: {
         marriage: {
-            year: '2030',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2026',
+            month: 'Ogos',
+            date: '29',
+            day: 'Sabtu',
             hours: {
-                start: '08.00',
+                start: '12:00 Tengah Hari - 5:00 Petang',
                 finish: 'Selesai'
             }
         },
         reception: {
-            year: '2024',
-            month: 'November',
-            date: '14',
-            day: 'Kamis',
+            year: '2026',
+            month: 'Ogos',
+            date: '29',
+            day: 'Sabtu',
             hours: {
-                start: '11.00',
+                start: '12:00 Tengah Hari - 5:00 Petang',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Lorem, RT 000/ RW 000, Desa.Lorem, Kec.Ipsum, Kab.Lorem, Lorem (1234)'
+        address: 'Lot3049, Kampung Padang Bongor, Jalan Bukit Marak, 16150, Kota Bharu, Kelantan.'
     },
 
     link: {
@@ -106,7 +106,7 @@ export const data = {
         },
         {
             id: 3,
-            teks: 'Tanggal',
+            teks: 'Tarikh',
             icon: 'bx bxs-calendar-check',
             path: '#time',
         },
