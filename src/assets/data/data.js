@@ -3,17 +3,11 @@ export const data = {
         L: {
             id: 1,
             name: 'Nik Mohamad Hanif Fakhruddin Bin Mohamed Ghazali',
-            child: 'Anak Kesebelas',
-            father: 'Mohamed Ghazali Bin Othman',
-            mother: 'Tuan Bidah Binti Tuan Kechik',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
             name: 'Nur Atikah Binti Hasbullah',
-            child: 'Anak pertama',
-            father: 'Hasbullah bin Abrahman',
-            mother: 'ROSUEMAH DUERAMAE',
             image: './src/assets/images/cewe.png'
         },
 
@@ -28,7 +22,6 @@ export const data = {
             day: 'Sabtu',
             hours: {
                 start: '12:00 Tengah Hari - 5:00 Petang',
-                finish: 'Selesai'
             }
         },
         reception: {
@@ -38,7 +31,6 @@ export const data = {
             day: 'rabu',
             hours: {
                 start: '12:00 Tengah Hari - 5:00 Petang',
-                finish: 'Selesai'
             }
         },
         address: 'Lot3049, Kampung Padang Bongor, Jalan Bukit Marak, 16150, Kota Bharu, Kelantan.'
